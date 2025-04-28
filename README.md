@@ -1,43 +1,35 @@
-<h1 align="center">Hi 👋, I'm Nishant Tiwari</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+### Hi there 👋
 
-- 🌱 I’m currently learning **DSA, MEAN Stack, and Android Development**
+#### I'm , a Full Stack Developer from India.
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/nishant-Tiwari24?tab=repositories)
+- 🔭 I’m currently working on **Full Stack Development**
+- 🌱 I’m currently learning **React, Node.js, MongoDB**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤔 I’m looking for help with **AWS**
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nishant-tiwari-24/) | [Twitter](https://twitter.com/NishantTiwari24)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love to play guitar and sing songs.
 
-- 📫 How to reach me **nishant.tiwari@example.com** (replace with your email)
+#### Languages and Tools:
 
-- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/your-link)
-
-- ⚡ Fun fact **I love chess and hackathons!**
-
----
-
-### 🚀 Languages and Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 </p>
 
----
+#### GitHub Stats:
 
-### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishant-Tiwari24&show_icons=true&locale=en" alt="nishant-Tiwari24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishant-Tiwari24&show_icons=true&theme=radical" alt="nishant-Tiwari24" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishant-Tiwari24&layout=compact&theme=radical" alt="nishant-Tiwari24" width="400"/>
 </p>
 
----
+#### Visitors Count:
 
-### 🧠 Top Skills
-- Java, JavaScript
-- Angular, Node.js, MongoDB
-- Android App Development
-- Web Development
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
+![Visitor Count](https://profile-counter.glitch.me/nishant-Tiwari24/count.svg)

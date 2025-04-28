@@ -1,13 +1,11 @@
-# Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
 
-# I'm Durgesh Deore
 
 <h1 align="center">
-  Hi there 👋, I'm Durgesh Deore
+  Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />, I'm Durgesh Deore
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&width=435&lines=MEAN+Developer;Full+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&width=435&lines=MEAN+Developer;Full+Stack+Enthusiast" alt="Typing SVG" />
 </h3>
 
 ---

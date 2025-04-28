@@ -7,7 +7,7 @@
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&multiline=true&width=435&lines=MEAN+Developer;Full+Stack+Enthusiast" alt="Typing SVG" />
 </h3>
-
+<br>
 ---
 
 🌍 I'm based in Pune, India  

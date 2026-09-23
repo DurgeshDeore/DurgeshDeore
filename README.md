@@ -144,7 +144,7 @@
 
 ### `GITHUB STATS`
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DurgeshDeore&show_icons=true&count_private=true&hide_border=true&title_color=1a1a18&text_color=1a1a18&icon_color=c0392b&bg_color=f9f8f6" height="160" alt="GitHub Stats"/>
 &nbsp;&nbsp;
@@ -162,11 +162,11 @@
 
 <br>
 
----
+--- -->
 
 ### `CONNECT`
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/DurgeshDeore">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="28" height="28" alt="GitHub"/>
@@ -184,9 +184,9 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="28" height="28" alt="Email"/>
 </a>
 
-<br><br>
+<br><br> -->
 
-<a href="https://www.buymeacoffee.com/durgeshdeoc">
+<!-- <a href="https://www.buymeacoffee.com/durgeshdeoc">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me A Coffee"/>
 </a>
 
@@ -194,7 +194,7 @@
 
 <br>
 
----
+--- -->
 
 <div align="center">
 <sub><code>Pune, Maharashtra · India 🇮🇳</code></sub>
